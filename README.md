@@ -7,10 +7,6 @@ This project implements the Fibonacci series using dynamic programming in C++. T
 - [Introduction](#-introduction)
 - [Algorithm Explanation](#-algorithm-explanation)
 - [Code Implementation](#-code-implementation)
-- [How to Run](#-how-to-run)
-- [Complexity Analysis](#-complexity-analysis)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🌟 Introduction
 
